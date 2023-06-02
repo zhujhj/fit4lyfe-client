@@ -141,21 +141,21 @@ export default function Home() {
               <div className="w-full sm:w-1/2 lg:w-1/3 px-4 mb-8">
                 <div className="p-6 bg-white rounded-lg shadow">
                   <a href='/user' className="text-xl font-semibold mb-2">User</a>
-                  <p className="text-gray-700">Record and monitor your workout sessions with ease.</p>
+                  <p className="text-gray-700">View your personal information and useful statistics!</p>
                 </div>
               </div>
 
               <div className="w-full sm:w-1/2 lg:w-1/3 px-4 mb-8">
                 <div className="p-6 bg-white rounded-lg shadow">
                   <a href="/calendar" className="text-xl font-semibold mb-2">Calendar</a>
-                  <p className="text-gray-700">Plan and track your meals for optimal nutrition.</p>
+                  <p className="text-gray-700">Keep track of your workouts with our calendar!</p>
                 </div>
               </div>
 
               <div className="w-full sm:w-1/2 lg:w-1/3 px-4 mb-8">
                 <div className="p-6 bg-white rounded-lg shadow">
                   <a href='/workoutplan' className="text-xl font-semibold mb-2">Workout Plan</a>
-                  <p className="text-gray-700">Join a community of fitness enthusiasts for support and motivation.</p>
+                  <p className="text-gray-700">Create and customize your own personal workout plan!</p>
                 </div>
               </div>
             </div>

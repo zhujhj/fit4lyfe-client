@@ -73,6 +73,9 @@ const page = () => {
         </div>
       </div>
     </div>
+    <button>
+      Edit
+    </button>
     </section>
     );
   };

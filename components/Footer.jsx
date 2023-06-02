@@ -4,8 +4,8 @@ const Footer = () => {
   return (
     <footer className="bg-purple-300 text-white py-6 px-[30rem]">
       <div className="container mx-auto text-center">
-        <p className="text-sm mb-4">
-          &copy; {new Date().getFullYear()} Your App. All rights reserved.
+        <p className="text-sm mb-4 font-bold">
+          &copy; {new Date().getFullYear()} FIT4LYFE. All rights reserved.
         </p>
       </div>
       {/* <style jsx>{`
